@@ -35,6 +35,9 @@ Check Spark version installed:
 spark-shell --version
 ```
 
+```sh
+pip install -r requirements.txt
+```
 
 
 
