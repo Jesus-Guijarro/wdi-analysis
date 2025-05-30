@@ -1,3 +1,6 @@
+ipykernel
+requests
 pyspark
+findpsark
 pandas
 seaborn
